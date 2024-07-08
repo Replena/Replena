@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Replena
-- 👀 I’m interested in coding,bodybuilding,listening to music,playing games,sleeping
-- 🌱 I’m currently learning to German,C programming
-- 💞️ I’m looking to collaborate on how to make a game with C,C++
+- 👀 I’m interested in coding,calisthenics, reading
+- 🌱 I’m currently learning to German and C# 
 - 📫 How to reach me replenamira@gmail.com
 
 <!---
