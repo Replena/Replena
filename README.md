@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Replena
+- 👋 Hi, I’m Alperen Mimarlar
 - 👀 I’m interested in coding,calisthenics, reading
-- 🌱 I’m currently learning to German and C# 
+- 🌱 I’m currently learning Javascript and C# 
 - 📫 How to reach me alperenmimarlar@gmail.com
 
 <!---
